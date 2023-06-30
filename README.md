@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Mail-#FF5E00?style=flat-square&logo=Mail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Mail&logoColor=white"/>
 
 ## "Hello, World!" 🫡
 
@@ -16,7 +16,7 @@ I do everything "seriously" with all my heart.<br>
 
 ## Tech Stack
 
-<a href="https://simpleicons.org/icons/amazonaws.svg" target="_blank"><img src="https://img.shields.io/badge/aws-3DDC84?style=flat-square&logo=AWS&logoColor=white"/></a>
+
 
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
