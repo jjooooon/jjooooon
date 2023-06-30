@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Mail&logoColor=white"/>
+<a href="https://simpleicons.org/icons/gmail.svg" target="_blank"><img src="https://img.shields.io/badge/Mail-#EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ## "Hello, World!" 🫡
 
