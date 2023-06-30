@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/Mail-3DDC84?style=flat-square&logo=Gmail&logoColor=red"/>
 ## "Hello, World!" 🫡
 
 안녕하세요. 이준영 입니다.<br>
