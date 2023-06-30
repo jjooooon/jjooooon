@@ -1,10 +1,16 @@
-## 안녕하세요. 이준영 입니다.🫡
+## "Hello, World!" 🫡
 
+안녕하세요. 이준영 입니다.
 IT 분야 엔지니어를 꿈꾸고 있습니다.<br>
-"배우는 것"과 "도전하는 것"을 매우 좋아하고, <br>
-매사에 "진심"을 다해서 임합니다. <br>
+"배우는 것"과 "도전하는 것"을 매우 좋아하고,<br>
+매사에 "진심"을 다해서 임합니다.<br>
 
 ### Hi there 👋
+
+Hello, I'm JoonYoung Lee. <br>
+I'm dreaming of becoming an IT engineer.<br>
+I love "learning" and "challenging."<br>
+I do everything "seriously" with all my heart.<br>
 
 ## Tech Stack
 
