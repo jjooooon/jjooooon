@@ -1,4 +1,4 @@
-<img src="https://simpleicons.org/icons/gmail.svg/Mail-#EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://simpleicons.org/icons/gmail.svg/Mail-#EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
 ## "Hello, World!" 🫡
 
