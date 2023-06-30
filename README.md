@@ -1,7 +1,3 @@
-<a href="https://simpleicons.org/icons/gmail.svg">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" alt="Android 아이콘" />
-  <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail 아이콘" />
-</a>
 ## "Hello, World!" 🫡
 
 안녕하세요. 이준영 입니다.<br>
