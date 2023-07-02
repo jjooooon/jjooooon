@@ -29,7 +29,8 @@ I do everything "seriously" with all my heart.<br> <br>
 
 ## 📖 Interest
 
-Big Data, Cloud Service
+Big Data, Cloud Service <br>
+Backend Engineer
 
 ## 💻 Stats 
 
