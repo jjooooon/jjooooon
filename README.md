@@ -12,7 +12,7 @@ IT 분야 엔지니어를 꿈꾸고 있습니다.<br>
 Hello, I'm JoonYoung Lee. <br>
 I'm dreaming of becoming an IT engineer.<br>
 I love "learning" and "challenging."<br>
-I do everything "seriously" with all my heart.<br>
+I do everything "seriously" with all my heart.<br> <br>
 
 ## 🛠️ Tech Stack
 
