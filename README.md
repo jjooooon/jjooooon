@@ -31,7 +31,7 @@ I do everything "seriously" with all my heart.<br> <br>
 
 Big Data, Cloud Service
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjooooon&show_icons=true&theme=radical)
 
 
 
