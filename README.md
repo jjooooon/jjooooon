@@ -1,5 +1,4 @@
-<img src="https://img.shields.io/badge/joonyoung0111@gmail.com-FF5E00?style=flat-square&logo=Gmail&logoColor=white"/>
-<a href="https://stormy-ornament-219.notion.site/Portfolio-3f223d140cc14b1dbbeb2d086f5bc643" target="_blank"><img src="https://img.shields.io/badge/Notion-8C8C8C?style=flat-square&logo=notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/joonyoung0111@gmail.com-FF5E00?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://stormy-ornament-219.notion.site/Portfolio-3f223d140cc14b1dbbeb2d086f5bc643" target="_blank"><img src="https://img.shields.io/badge/Notion-8C8C8C?style=flat-square&logo=notion&logoColor=white"/></a>
 
 ## "Hello, World!" 🫡
 
