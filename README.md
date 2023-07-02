@@ -14,7 +14,7 @@ I'm dreaming of becoming an IT engineer.<br>
 I love "learning" and "challenging."<br>
 I do everything "seriously" with all my heart.<br>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 
 
